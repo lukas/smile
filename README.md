@@ -57,6 +57,11 @@ wandb run smile.py
 - smiledataset.py - loads the data
 - master.zip - the face dataset, smiles are in the positive directory the rest are in the negative directory
 
+## Stuck?
+
+1. Ask for or help
+2. https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+
 ## Extra Credit
 
 Deploy the model.  
