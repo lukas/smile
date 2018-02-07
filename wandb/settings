@@ -1,0 +1,4 @@
+[default]
+entity: ml-class
+project: smile
+base_url: https://api.wandb.ai
