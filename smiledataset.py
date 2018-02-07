@@ -18,7 +18,7 @@ def examples_to_dataset(examples, block_size=2):
     test_y = []
     for path, label in examples:
         num = re.search(r'([0-9]+)\.jpg', path)
-        img_id = int(num[1])
+        img_id = int(num.group(1))
         # read the images
         img = imread(path, as_grey=True)
 
