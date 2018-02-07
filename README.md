@@ -1,3 +1,6 @@
+![][https://github.com/hromi/SMILEsmileD/blob/master/SMILEs/positives/positives7/10046.jpg?raw=true]
+![][https://github.com/hromi/SMILEsmileD/blob/master/SMILEs/negatives/negatives7/10211.jpg?raw=true]
+
 # Smile :)
 
 Smile Classifier - The challenge is to create a classifier that can distinguish a smiling face.
