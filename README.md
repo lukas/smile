@@ -48,7 +48,7 @@ wandb run smile.py
 2. [Keras Docs](https://keras.io/getting-started/sequential-model-guide/)
 3. [Previous Work](https://github.com/oarriaga/face_classification)
 4. [Other datasets](http://www.face-rec.org/databases/)
-5. [Data Augmentation] (https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+5. [Data Augmentation](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 6. [Transfer Learning](https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)
 
 ## Files
