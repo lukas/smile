@@ -25,8 +25,8 @@ img_rows, img_cols = train_X.shape[1:]
 test_X = test_X.reshape(test_X.shape[0], test_X.shape[1], test_X.shape[2], 1)
 train_X = train_X.reshape(train_X.shape[0], train_X.shape[1], train_X.shape[2], 1)
 
-train_X /= 255.0
-test_X /= 255.0
+#train_X /= 255.0
+#test_X /= 255.0
 
 model = Sequential()
 model.add(Flatten(input_shape=(img_rows, img_cols,1)))
