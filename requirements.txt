@@ -1,0 +1,5 @@
+wandb
+keras
+tensorflow
+numpy
+scikit-image
