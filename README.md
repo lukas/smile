@@ -2,7 +2,14 @@
 
 Smile Classifier - The challenge is to create a classifier that can distinguish a smiling face.
 
-## Setup 
+## Setup
+
+Be sure to clone this repository on your AWS instance
+
+```shell
+cd ~
+git clone https://github.com/lukas/smile.git
+```
 
 Create an account at https://app.wandb.ai/login?invited if you don't have one.  Copy an api key from your [profile](https://app.wandb.ai/profile) and paste it after calling `wandb login` below.
 
