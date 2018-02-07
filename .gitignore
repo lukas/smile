@@ -1,0 +1,3 @@
+wandb/*
+!wandb/settings
+SMILEsmileD-master
