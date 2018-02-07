@@ -2,16 +2,13 @@
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/positives/positives7/10045.jpg)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/positives/positives7/10047.jpg)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/positives/positives7/10048.jpg)
-![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/positives/positives7/10049.jpg)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/positives/positives7/10050.jpg)
-![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/positives/positives7/10051.jpg)
 
 ![](https://github.com/hromi/SMILEsmileD/blob/master/SMILEs/negatives/negatives7/10211.jpg?raw=true)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/negatives/negatives7/10210.jpg)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/negatives/negatives7/10212.jpg)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/negatives/negatives7/10213.jpg)
 ![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/negatives/negatives7/10214.jpg)
-![](https://raw.githubusercontent.com/hromi/SMILEsmileD/master/SMILEs/negatives/negatives7/10215.jpg)
 
 
 
@@ -50,6 +47,7 @@ wandb run smile.py
 1. [Slack Channel](https://join.slack.com/t/doloreslabs/shared_invite/enQtMzExNjMzMDcwMzM4LTk4YTFjN2I0YWJkNTU5OGQ1YTI5NDU5ODU2MzUyYjVjM2Y0OTIyZDgwMmNiY2U3N2ZjNmQzOThmMzkwNjA0ODQ)
 2. [Keras Docs](https://keras.io/getting-started/sequential-model-guide/)
 3. [Previous Work](https://github.com/oarriaga/face_classification)
+4. [Other datasets](http://www.face-rec.org/databases/)
 
 ## Files
 
