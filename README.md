@@ -63,5 +63,28 @@ wandb run smile.py
 2. https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
 
 ## Extra Credit
-
+ 
 Deploy the model.  
+
+## Ideas
+
+### Simple, Effective:
+- Normalize train_X and test_X
+- Add dense layers
+- Add convolutional layer(s)?
+- Add dropout
+- Change learning rate
+- Experiment with activation functions
+
+### Fancier, Maybe Effective:
+- Data Augmentation (https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+- Transfer Learning (https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/)
+Other ideas?
+
+## GPU on AWS
+
+```
+export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp27-none-linux_x86_64.whl
+sudo pip install --upgrade $TF_BINARY_URL
+```
+
